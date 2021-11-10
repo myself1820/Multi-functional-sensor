@@ -1,1 +1,2 @@
-采用涂鸦CBU Wi-Fi & Bluetooth 模组和ATMEGA328P制作的多功能报警器，能够时时采集燃气、烟雾、温度、湿度、光照强度、电池电量、人体红外感应信号，当燃气、烟雾、温度任何一项数值超过阀值将激活蜂鸣器报警，同时报警灯开始闪烁。该报警器还具有人体感应夜灯功能，当光照变弱，有人活动时自动点亮夜灯，延时十秒后自动关闭。APP采用涂鸦自定义界面，可显示各传感器的状态以及数值，还可查看各传感器的历史数据，可通过APP打开或关闭报警器，开启或关闭静音、设置报警时长、报警铃声等参数。
+tuya-mcu-deom
+This projectis developed using TuyaSDK,which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices. For more information,please check Tuya Developer Website.
